@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a45b8d8924a90846a6be54757f34e1b, type: 3}
+  m_Name: Level raw data
+  m_EditorClassIdentifier: 
+  levelsData:
+  - knife: {fileID: 8928080086203514706, guid: 9275ac005338e4d409c61470296e7d7d, type: 3}
+    speed: 30
+    knivesAmount: 5
+    cycle: {fileID: 1281461296325219748, guid: 9af168156cfef1440b63064dfd19d662, type: 3}
+    cycleScale: 0.35
+    increaseSC: 4
+    cycleSpeed: 3
+  - knife: {fileID: 8928080086203514706, guid: 9275ac005338e4d409c61470296e7d7d, type: 3}
+    speed: 30
+    knivesAmount: 6
+    cycle: {fileID: 1281461296325219748, guid: 9af168156cfef1440b63064dfd19d662, type: 3}
+    cycleScale: 0.35
+    increaseSC: 4
+    cycleSpeed: 3
+  - knife: {fileID: 8928080086203514706, guid: 9275ac005338e4d409c61470296e7d7d, type: 3}
+    speed: 30
+    knivesAmount: 7
+    cycle: {fileID: 1281461296325219748, guid: 9af168156cfef1440b63064dfd19d662, type: 3}
+    cycleScale: 0.35
+    increaseSC: 4
+    cycleSpeed: 3
+  - knife: {fileID: 8928080086203514706, guid: 9275ac005338e4d409c61470296e7d7d, type: 3}
+    speed: 30
+    knivesAmount: 8
+    cycle: {fileID: 1281461296325219748, guid: 9af168156cfef1440b63064dfd19d662, type: 3}
+    cycleScale: 0.35
+    increaseSC: 4
+    cycleSpeed: 3
+  - knife: {fileID: 8928080086203514706, guid: 9275ac005338e4d409c61470296e7d7d, type: 3}
+    speed: 30
+    knivesAmount: 9
+    cycle: {fileID: 1281461296325219748, guid: 9af168156cfef1440b63064dfd19d662, type: 3}
+    cycleScale: 0.35
+    increaseSC: 4
+    cycleSpeed: 3
